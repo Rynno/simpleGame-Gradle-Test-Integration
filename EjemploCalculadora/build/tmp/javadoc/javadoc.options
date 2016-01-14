@@ -1,7 +1,0 @@
--classpath 'C:\\EjemploCalculadora\\build\\classes\\main;C:\\EjemploCalculadora\\build\\resources\\main;C:\\Users\\CltControl.WRKS129-154FIEC\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.13\\7fcf30c25b8f4a9379b9dad0d3f487b25272c026\\slf4j-api-1.7.13.jar'
--d 'C:\\EjemploCalculadora\\build\\docs\\javadoc'
--doctitle 'EjemploCalculadora API'
--quiet 
--windowtitle 'EjemploCalculadora API'
-'C:\\EjemploCalculadora\\src\\main\\java\\ec\\edu\\espol\\Calservice.java'
-'C:\\EjemploCalculadora\\src\\main\\java\\ec\\edu\\espol\\ICalculator.java'
