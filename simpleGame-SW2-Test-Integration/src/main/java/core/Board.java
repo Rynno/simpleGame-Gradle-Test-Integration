@@ -53,7 +53,19 @@ public class Board {
     }
 
     
-    /**
+    public void setxSize(int xSize) {
+		this.xSize = xSize;
+	}
+
+	public void setySize(int ySize) {
+		this.ySize = ySize;
+	}
+
+	public Board() {
+		super();
+	}
+
+	/**
      * Constructs a board, with a number of pawns and a size.
      * The pawns are spread randomly.
      * The bonus square is selected randomly.

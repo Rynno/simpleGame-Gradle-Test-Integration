@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="game.PawnTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-01-15T13:29:14" hostname="Ronny" time="0.007">
+  <properties/>
+  <testcase name="testAddBonus" classname="game.PawnTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
